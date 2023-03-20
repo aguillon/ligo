@@ -1,8 +1,9 @@
 [submodule "vendors/tezos-ligo"]
 	path = vendors/tezos-ligo
-	url = https://github.com/ligolang/tezos-ligo.git
-	branch = v15.0-ligo+windows
+	url = https://github.com/aguillon/tezos-ligo
+	branch = main
 [submodule "tools/lsp/squirrel/bench/submodules/baseDAO"]
 	path = tools/lsp/squirrel/bench/submodules/baseDAO
 	url = https://github.com/Sorokin-Anton/baseDAO
 	branch = Sorokin-Anton/branch-for-ligo-lsp-benchmarks
+
